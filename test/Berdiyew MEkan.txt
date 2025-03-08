@@ -1,0 +1,18 @@
+Fizika
+1:Tizlik:0
+1:Basys:1
+1:Kuwwat:0
+1:Om:0
+1:Guyc:0
+Matemamatika
+1:logarifm:0
+1:integral:0
+1:drobi:0
+1:wektorlar:0
+1:Trigonometriya:1
+Turkemn dili
+1:Fonetika:1
+1:Grammatika:1
+1:Islikler:0
+1:Islikler:0
+1:Grammatika:0
